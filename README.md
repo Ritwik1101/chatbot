@@ -28,4 +28,9 @@ When you run the bot:
 - It connects to the puppet service.
 - Listens for events like messages, logins, or friendships.
 - Responds based on your defined logic.
+## Steps to Run
+pip install -r requirements.txt
+
+python bot.py
+
 
