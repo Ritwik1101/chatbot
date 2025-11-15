@@ -10,7 +10,7 @@ This project is a simple chatbot built using **WeChaty**, a Python framework for
 - Replies automatically to messages (e.g. "ding" → "dong")
 - Built using Object-Oriented Programming (OOP) structure
 - Supports async message handling
-- Can handle private chats and group messages
+- Can handle private chats and group mesg
 
 ---
 
@@ -32,5 +32,6 @@ When you run the bot:
 pip install -r requirements.txt
 
 python bot.py
+
 
 
